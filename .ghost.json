@@ -1,10 +1,10 @@
 {
   "development": {
     "apiUrl": "https://dspinkman.com",
-    "contentApiKey": "de55f78bff595de92ae8da0ea2"
+    "contentApiKey": "fcdc8b9c6680e22b1f1bcb6a04"
   },
   "production": {
     "apiUrl": "https://dspinkman.com",
-    "contentApiKey": "de55f78bff595de92ae8da0ea2"
+    "contentApiKey": "fcdc8b9c6680e22b1f1bcb6a04"
   }
 }
